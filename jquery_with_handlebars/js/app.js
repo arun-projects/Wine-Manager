@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var ENDPOINT_URL = "http://myapi-profstream.herokuapp.com/api/d79974/wines";
+  var ENDPOINT_URL = "your url here";
 
   // Create Handlebars template
   var wineTemplate = Handlebars.compile($("#wine-template").html());
